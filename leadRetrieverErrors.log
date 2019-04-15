@@ -1,0 +1,113 @@
+
+ALERT [2019-03-23 22:39:03] Connected!
+ALERT [2019-03-23 22:42:03] Connected!
+ALERT [2019-03-23 23:00:04] Connected!
+ALERT [2019-03-23 23:24:03] Connected!
+ALERT [2019-03-23 23:24:06] Disconnected!
+ALERT [2019-03-24 01:30:02] Connected!
+ALERT [2019-03-24 01:30:05] Disconnected!
+ALERT [2019-03-24 01:44:52] Connected!
+ALERT [2019-03-24 01:46:31] Connected!
+ALERT [2019-03-24 01:56:17] Connected!
+ALERT [2019-03-24 01:56:20] Disconnected!
+ALERT [2019-03-24 02:11:48] Connected!
+ALERT [2019-03-24 02:11:51] Disconnected!
+ERROR [2019-03-24 02:12:02] BAD REQUEST - The Document is not XML adf. 
+--00000000000099278a0584d02b51
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+U2lnbi1pbiBhdHRlbXB0IHdhcyBibG9ja2VkDQoNCg0KYmlsbHNvbmplbmtpbnNAZ21haWwuY29t
+DQpTb21lb25lIGp1c3QgdXNlZCB5b3VyIHBhc3N3b3JkIHRvIHRyeSB0byBzaWduIGluIHRvIHlv
+dXIgYWNjb3VudC4gR29vZ2xlDQpibG9ja2VkIHRoZW0sIGJ1dCB5b3Ugc2hvdWxkIGNoZWNrIHdo
+YXQgaGFwcGVuZWQuDQpDaGVjayBhY3Rpdml0eQ0KPGh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNv
+bS9BY2NvdW50Q2hvb3Nlcj9FbWFpbD1iaWxsc29uamVua2luc0BnbWFpbC5jb20mY29udGludWU9
+aHR0cHM6Ly9teWFjY291bnQuZ29vZ2xlLmNvbS9hbGVydC9udC8xNTUzNDA0MTU5MDAwP3JmbiUz
+RDYlMjZyZm5jJTNEMSUyNmVpZCUzRC00NzMyMzkxMzQyMjEwODk2MTg0JTI2ZXQlM0QwJTI2YW5l
+eHAlM0RnaXZhYi1mYS0tbWR2Mi1mYT4NCllvdSByZWNlaXZlZCB0aGlzIGVtYWlsIHRvIGxldCB5
+b3Uga25vdyBhYm91dCBpbXBvcnRhbnQgY2hhbmdlcyB0byB5b3VyDQpHb29nbGUgQWNjb3VudCBh
+bmQgc2VydmljZXMuDQrCqSAyMDE5IEdvb2dsZSBMTEMsIDE2MDAgQW1waGl0aGVhdHJlIFBhcmt3
+YXksIE1vdW50YWluIFZpZXcsIENBIDk0MDQzLCBVU0ENCg=--00000000000099278a0584d02b51
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3Den><head><meta content=3D"email=3Dno" name=3D"format-detection"><meta content=3D"date=3Dno" name=3D"format-detection"><style>.awl a {color: #FFFFFF; text-decoration: none;} .abml a {color: #000000; font-family: Roboto-Medium,Helvetica,Arial,sans-serif; font-weight: bold; text-decoration: none;} .adgl a {color: rgba(0, 0, 0, 0.87); text-decoration: none;} .afal a {color: #b0b0b0; text-decoration: none;} @media screen and (min-width: 600px) {.v2sp {padding: 6px 30px 0px;} .v2rsp {padding: 0px 10px;}} @media screen and (min-width: 600px) {.mdv2rw {padding: 40px 40px;}} </style><link href=3D"//fonts.googleapis.com/css?family=3DGoogle+Sans" rel=3Dstylesheet type=3D"text/css"></head><body bgcolor=3D"#FFFFFF" style=3D"margin: 0; padding: 0;"><table border=3D0 cellpadding=3D0 cellspacing=3D0 height=3D"100%" lang=3Den style=3D"min-width: 348px;" width=3D"100%"><Tbody><tr height=3D32 style=3D"height: 32px;"><td></td></tr><tr align=3Dcenter><td><div itemscope itemtype=3D"//schema.org/EmailMessage"><div itemprop=3Daction itemscope itemtype=3D"//schema.org/ViewAction"><link href=3D"https://accounts.google.com/AccountChooser?Email=3Dbillsonjenkins@gmail.com&amp;continue=3Dhttps://myaccount.google.com/alert/nt/1553404159000?rfn%3D6%26rfnc%3D1%26eid%3D-4732391342210896184%26et%3D0%26anexp%3Dgivab-fa--mdv2-fa" itemprop=3Durl><meta content=3D"Review Activity" itemprop=3Dname></div></div><table border=3D0 cellpadding=3D0 cellspacing=3D0 style=3D"padding-bottom: 20px;max-width: 516px;min-width: 220px;"><Tbody><tr><td style=3D"width: 8px;" width=3D8></td><td><div align=3Dcenter class=3Dmdv2rw style=3D"border-style: solid; border-width: thin; border-color:#dadce0; border-radius: 8px; padding: 40px 20px;"><img height=3D24 src=3D"https://www.gstatic.com/accountalerts/email/googlelogo_color_188x64dp.png" style=3D"width: 75px; height: 24px; margin-bottom: 16px;" width=3D75><div style=3D"font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom: thin solid #dadce0; color: rgba(0,0,0,0.87); line-height: 32px; padding-bottom: 24px;text-align: center; word-break: break-word;"><div style=3D"text-align: center; padding-bottom: 16px; line-height:0;"><img height=3D33 src=3D"https://www.gstatic.com/images/icons/material/system/2x/error_red_36dp.png"></div><div style=3D"font-size: 24px;">Sign-in attempt was&nbsp;blocked</div><table align=3Dcenter style=3D"margin-top:8px;"><Tbody><tr style=3D"line-height: normal;"><td align=3Dright style=3D"padding-right:8px;"><img height=3D20 src=3D"https://www.gstatic.com/accountalerts/email/anonymous_profile_photo.png" style=3D"width: 20px; height: 20px; vertical-align: sub; border-radius: 50%;;" width=3D20></td><td><a style=3D"font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.87); font-size: 14px; line-height: 20px;">billsonjenkins@gmail.com</a></td></tr></Tbody></table></div><div style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 14px; color: rgba(0,0,0,0.87); line-height: 20px;padding-top: 20px; text-align: center;">Someone just used your password to try to sign in to your account. Google blocked them, but you should check what happened.<div style=3D"padding-top: 32px;text-align: center;"><a href=3D"https://accounts.google.com/AccountChooser?Email=3Dbillsonjenkins@gmail.com&amp;continue=3Dhttps://myaccount.google.com/alert/nt/1553404159000?rfn%3D6%26rfnc%3D1%26eid%3D-4732391342210896184%26et%3D0%26anexp%3Dgivab-fa--mdv2-fa" link-id=3D"main-button-link" style=3D"font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif; line-height: 16px; color: #ffffff; font-weight: 400; text-decoration: none;font-size: 14px;display:inline-block;padding: 10px 24px;background-color: #D94235; border-radius: 5px; min-width: 90px;" target=3D"_blank">Check activity</a></div></div></div><div style=3D"text-align: left;"><div style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54);font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;"><div>You received this email to let you know about important changes to your Google Account and services.</div><div style=3D"direction: ltr;">&copy; 2019 Google LLC, <a class=3Dafal style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54);font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;">1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</a></div></div></div></td><td style=3D"width: 8px;" width=3D8></td></tr></Tbody></table></td></tr><tr height=3D32 style=3D"height: 32px;"><td></td></tr></Tbody></table><img height=3D1 src=3D"https://notifications.googleapis.com/email/t/AFG8qyWlUnxUvfTke_LUmIF1cC1Kqq43fVoqniYsApXbauVhUAmvhpQklheaqWORnLSvsY0GZ4GHc6InOxULnqRfHYVZikwWeJfgmS3df_Xkwy7xLZwrwCscUuRtJW6e49A5GxBlLnlj9pCcZBXXOBP8MVWoCtA-EyXkXBa3Dnm-97GBEVxhplNOtlCk2dnhAwfOQVdbt5B5bK-KBw0Xvv-5fcwceWYkc2e-ABLfjSme8WFkxMBAsMkIg4_ar-hgcKHB4YAfwFqCpuhZ8lA/a.gif" width=3D1></body></html>
+--00000000000099278a0584d02b51--
+
+ALERT [2019-03-24 02:15:55] Connected!
+ALERT [2019-03-24 02:15:58] Disconnected!
+ALERT [2019-03-24 13:41:03] Connected!
+ALERT [2019-03-24 13:41:03] Disconnected!
+ALERT [2019-03-24 13:41:25] Connected!
+ALERT [2019-03-24 13:41:28] Disconnected!
+ALERT [2019-03-24 13:41:53] Connected!
+ALERT [2019-03-24 13:41:53] Disconnected!
+ALERT [2019-03-24 13:43:01] Connected!
+ALERT [2019-03-24 13:43:01] Disconnected!
+ALERT [2019-03-24 13:43:19] Connected!
+ALERT [2019-03-24 13:43:19] Disconnected!
+ALERT [2019-03-24 13:45:05] Connected!
+ALERT [2019-03-24 13:45:05] Disconnected!
+ALERT [2019-03-24 13:51:31] Connected!
+ALERT [2019-03-24 13:51:34] Disconnected!
+ALERT [2019-03-24 13:52:59] Connected!
+ALERT [2019-03-24 13:52:59] Disconnected!
+ALERT [2019-03-24 13:53:55] Connected!
+ALERT [2019-03-24 13:53:58] Disconnected!
+ALERT [2019-03-24 13:55:27] Connected!
+ALERT [2019-03-24 13:56:53] Connected!
+ALERT [2019-03-24 13:56:53] Disconnected!
+ALERT [2019-03-24 13:58:53] Connected!
+ERROR [2019-03-24 13:58:53] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Emails" is unknown.
+ERROR [2019-03-24 13:58:53] BAD REQUEST - Could not capture lead as the provider name "Kijijisa" is unknown.
+ALERT [2019-03-24 14:03:52] Connected!
+ALERT [2019-03-24 14:05:02] Connected!
+ALERT [2019-03-24 14:05:03] Disconnected!
+ALERT [2019-03-24 14:05:41] Connected!
+ERROR [2019-03-24 14:05:41] BAD REQUEST - Could not capture lead as the provider name "AutoBots" is unknown.
+ALERT [2019-03-24 14:05:44] Disconnected!
+ALERT [2019-03-24 14:06:09] Connected!
+ALERT [2019-03-24 14:06:09] Disconnected!
+ALERT [2019-03-24 14:06:43] Connected!
+ALERT [2019-03-24 14:07:08] Connected!
+ALERT [2019-03-24 14:07:40] Connected!
+ALERT [2019-03-24 14:08:13] Connected!
+ALERT [2019-03-24 14:08:40] Connected!
+ALERT [2019-03-24 14:10:18] Connected!
+ALERT [2019-03-24 14:15:14] Connected!
+ALERT [2019-03-24 14:17:10] Connected!
+ALERT [2019-03-24 14:18:00] Connected!
+ALERT [2019-03-24 14:19:00] Connected!
+ALERT [2019-03-24 14:23:39] Connected!
+ALERT [2019-03-24 14:23:39] Disconnected!
+ALERT [2019-03-24 14:24:37] Connected!
+ALERT [2019-03-24 14:24:37] Disconnected!
+ALERT [2019-04-08 02:51:02] Connected!
+ERROR [2019-04-08 02:51:02] BAD REQUEST - Could not capture lead as the provider name "Trader Mobile Text" is unknown.
+ERROR [2019-04-08 02:51:02] BAD REQUEST - Could not capture lead as the provider name "Trader Mobile Text" is unknown.
+ERROR [2019-04-08 02:51:02] BAD REQUEST - Could not capture lead as the provider name "Trader Mobile Text" is unknown.
+ALERT [2019-04-08 02:55:18] Connected!
+ERROR [2019-04-08 02:55:18] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Mobile" is unknown.
+ERROR [2019-04-08 02:55:18] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Email - ICO - Trade-In" is unknown.
+ERROR [2019-04-08 02:55:18] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Email - ICO - Trade-In" is unknown.
+ERROR [2019-04-08 02:55:18] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Mobile" is unknown.
+ERROR [2019-04-08 02:55:18] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Mobile" is unknown.
+ALERT [2019-04-08 03:11:44] Connected!
+ERROR [2019-04-08 03:11:44] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Email - ICO - Trade-In" is unknown.
+ALERT [2019-04-08 03:11:47] Disconnected!
+ALERT [2019-04-08 03:12:52] Connected!
+ERROR [2019-04-08 03:12:52] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Email - ICO - Trade-In" is unknown.
+ALERT [2019-04-08 03:12:52] Disconnected!
+ALERT [2019-04-08 03:14:01] Connected!
+ALERT [2019-04-08 03:14:01] Disconnected!
+ALERT [2019-04-08 03:17:27] Connected!
+ERROR [2019-04-08 03:17:27] BAD REQUEST - Could not capture lead as the provider name "Trader Mobile Text" is unknown.
+ALERT [2019-04-08 03:17:30] Disconnected!
+ALERT [2019-04-08 03:18:43] Connected!
+ALERT [2019-04-08 03:18:43] Disconnected!
+ALERT [2019-04-08 03:20:58] Connected!
+ERROR [2019-04-08 03:20:58] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Mobile" is unknown.
+ERROR [2019-04-08 03:20:58] BAD REQUEST - Could not capture lead as the provider name "Auto Trader Mobile" is unknown.
+ALERT [2019-04-08 03:21:01] Disconnected!
+ALERT [2019-04-08 03:22:50] Connected!
+ALERT [2019-04-08 03:22:53] Disconnected!

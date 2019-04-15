@@ -1,0 +1,20 @@
+{
+  "name": "leady",
+  "version": "1.0.0",
+  "description": "lead retriever for TrueLeads",
+  "main": "leady.js",
+  "dependencies": {
+    "fast-xml-parser": "^3.12.14",
+    "imap-simple": "^4.3.0",
+    "mailparser": "^2.5.0",
+    "mysql": "^2.16.0",
+    "node-html-parser": "^1.1.12",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stcman",
+  "license": "ISC"
+}
